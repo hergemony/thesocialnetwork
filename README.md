@@ -53,6 +53,8 @@ https://w3schools.com
 https://github.com/sam-ngu
 https://www.nathan-lam.com/blog/embed-video-in-github-readme.html
 
+https://www.abrahamberg.com/blog/npm-package-json-lock-version-1-or-2/
+
 ## Tests
 
 
