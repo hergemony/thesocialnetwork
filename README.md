@@ -13,16 +13,18 @@
 * [License](#License)
 * [Features](#Features)
 * [Credits](#Credits)
-* [Tests](#Tests)
 * [Questions](#Questions)
 * [Copyright](#Copyright)
 
 ## Description
-A social network web application that uses a NoSQL database.
+A social network web application that uses a NoSQL database. Users are able to create a friend list, share thoughts and react to friends' thoughts.
 
 ## Tech-Stack
 - NoSQL
 - Express
+- MongoDB
+- Mongoose
+
 
 
 ## Installation
@@ -55,14 +57,16 @@ https://www.nathan-lam.com/blog/embed-video-in-github-readme.html
 
 https://www.abrahamberg.com/blog/npm-package-json-lock-version-1-or-2/
 
-## Tests
+https://www.youtube.com/watch?v=gzyNfNSjCMw
+
+https://dev.to/kmcknight91/how-to-use-insomnia-to-test-api-endpoints-1lad
+
+https://www.youtube.com/watch?v=CDtPMR5y0QU
 
 
 ## Questions
 Any questions, please email hergemony@gmail.com
 
-## Github Deployed Link
-https://hergemony.github.io/thesocialnetwork/
 
 ## Copyright
 2022 Hergemony™️ Digital Services
